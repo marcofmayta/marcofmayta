@@ -48,8 +48,6 @@
 ║  > whoami                              ║
 ║  Marco Mayta — AI Researcher 🔬       ║
 ║                                        ║
-║  > location                            ║
-║  São Carlos 🇧🇷 | Peru 🇵🇪               ║
 ║                                        ║
 ║  > status                              ║
 ║  🟢 Open to collaborate                ║
@@ -84,7 +82,6 @@ class MarcoMayta:
     role     = ["PhD Student @ ICMC-USP",
                 "AI & ML Researcher",
                 "Stanford PAI Section Leader"]
-    location = "São Carlos, Brazil 🇧🇷"
     langs    = ["Python", "R", "SQL", "C++"]
 
     interests = {
